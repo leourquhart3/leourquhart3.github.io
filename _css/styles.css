@@ -1,0 +1,74 @@
+/*Styles CSS */
+
+
+body {
+  margin: 
+  font-family: 
+  background: 
+}
+
+header {
+  background: 
+  color: 
+  text-align: 
+  padding: 
+}
+
+/* ----------- */
+html {
+  font-family: 
+  margin: 
+  font-size: 
+  line-height: 
+}
+header {
+  display: 
+  align-items: 
+}
+h1 {
+  font-size: 
+  font-weight: 
+  margin: 0;
+  color: 
+}
+img {
+  width: 
+  height: 
+  margin-right: 
+}
+
+nav {
+ background: #a6a6a6;
+}
+
+nav {
+  border-top-color: #0966C2;
+  border-bottom-color: #0966C2;
+}
+
+nav a {
+  color: white;
+}
+
+nav a:hover {
+  color: white;
+  background-color: #09c20f;
+}
+
+nav a:hover i {
+  color: #F3BA64;
+}
+
+.flex-parent {
+  color: white;
+}
+
+.flex-child {
+  background: #0d93a7;
+}
+
+footer {
+  background: #008080;
+  color: white;
+}
+
