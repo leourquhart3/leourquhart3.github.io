@@ -6,3 +6,88 @@ body {
   background: #d0eafe;
 }
 
+.col-left {
+  width: 400px;
+  vertical-align: top;
+}
+
+.contact-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.contact-left {
+  width: 400px;
+  vertical-align: top;
+}
+
+.spacer {
+  width: 10px;
+}
+
+.center {
+  text-align: center;
+}
+
+.layout-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.left-col,
+.right-col {
+  vertical-align: top;
+}
+
+.left-col {
+  width: 400px;
+}
+
+.photo-table,
+.contact-table,
+.info-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.photo-cell {
+  width: 200px;
+}
+
+.photo-spacer,
+.contact-spacer,
+.info-spacer {
+  width: 10px;
+}
+
+.photo {
+  width: 200px;
+  height: 250px;
+  display: block;
+}
+
+.center {
+  text-align: center;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.info-left {
+  width: 400px;
+  vertical-align: top;
+}
+
+.info-right {
+  vertical-align: top;
+}
+
+/* Example heading styles */
+.page-title {
+  font-size: 2rem;
+}
+
+.section-title {
+  font-size: 1.5rem;
+}
